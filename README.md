@@ -9,7 +9,7 @@ Moreover I have experience in finite-element-analysis, machine learning, and - b
 
 Currently I use my spare time to learn about the following topics:
 
-- Quantum Computation - I enjoy solving the exercises in Chuang-Nielsens Book.
+- Quantum Computation - I enjoy [solving the exercises](https://rainij.github.io/solutions-qcqi-nielsen-chuang/) in Chuang-Nielsens Book.
 - Functional Programming with a focus on Interactive Theorem Proving.
 - AI / Machine Learning with a focus on theory and "Automated" Theorem Proving.
 - WebAssembly with a focus on its design.
