@@ -8,7 +8,7 @@ years of experience. I recieved my PhD in mathematics (Tauberian theorems, decay
 in 2017.
 
 I mainly work with Python and Rust. Previously I also worked with C++ and TypeScript. I
-have some superficial knowledge of Emacs Lisp, Standard ML, Lean, WebAssembly, and x86-64
+have some basic knowledge of Emacs Lisp, Standard ML, Lean, WebAssembly, and x86-64
 Assembly.
 
 I use my spare time to learn about selected topics in unsupervised machine learning
