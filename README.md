@@ -7,10 +7,8 @@ Previously I worked for the automotive industry (simulation data management) wit
 years of experience. I recieved my PhD in mathematics (Tauberian theorems, decay of waves)
 in 2017.
 
-I mainly work with Python and Rust. Previously I also worked with C++ and TypeScript. I
+I mainly work with C++, Python, and Rust. Previously I also worked with TypeScript. I
 have some basic knowledge of Emacs Lisp, Standard ML, Lean, WebAssembly, and x86-64
 Assembly.
 
-I use my spare time to learn about selected topics in unsupervised machine learning
-(reinforcement-learning, etc.). Moreover, I am interested in computer aided theorem
-proving.
+As a hobby I am interested in computer aided theorem proving.
